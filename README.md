@@ -1,6 +1,6 @@
 ![](pics/bblogotrans.png)
 
-<img align="left" width="100" height="100" src="pics/bblogotrans.png">
+<img align="left" src="pics/bblogotrans.png">
 
 ![](pics/hardware-resized.jpeg)
 
