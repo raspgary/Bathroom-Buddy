@@ -1,5 +1,7 @@
 ![](pics/bblogotrans.png)
 
+<img align="left" width="100" height="100" src="pics/bblogotrans.png">
+
 ![](pics/hardware-resized.jpeg)
 
 Bathroom Buddy is an inexpensive yet powerful device that helps users decrease their environmental footprint by alerting and tracking users' water and light consumption. Users may monitor their activity on the Bathroom Buddy website where they may also redeem rewards for eco-friendly habits. This rewards system gamifies being environmentally aware, allowing Bathroom Buddy to grow it's platform and incentivize eco-friendly behavior. My team and I built this project at EarthxHack and won 2nd place overall.
