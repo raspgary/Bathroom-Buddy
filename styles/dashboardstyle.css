@@ -113,7 +113,7 @@ body
 #gauge{
 	left: 50%;
     text-align:center;
-    transform: translateX(-50%);
+    /*transform: translateX(-50%);*/
     position:flex;
 	height:82%;
 
@@ -241,7 +241,7 @@ body
 	left: 50%;
     text-align:center;
 
-    transform: translateX(-50%);
+    /*transform: translateX(-50%);*/
     position:flex;
 	height:84%;
 	width:100%;
