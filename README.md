@@ -1,8 +1,8 @@
-**Disclaimer: We understand that the commit history starts before April 24th. This is because we forked a basic web app to use for reference on how to do simple things such as GET requests and linking css/js files to html. The commit history from that basic project somehow carried over, but you can see our actual first commit for this submission was April 24th. We have already sorted this out with the EarthxHack staff and they have acknowledged this was fair use. You may also see the repo we forked and compare every line of code and see that no ideas or the same code are used: https://github.com/raspgary/Bilingual-Buddy**
-
 ![](pics/bblogotrans.png)
 
-Bathroom Buddy is an inexpensive yet powerful device that helps users decrease their environmental footprint by alerting and tracking users' water and light consumption. Users may monitor their activity on the Bathroom Buddy website where they may also redeem rewards for eco-friendly habits. This rewards system gamifies being environmentally aware, allowing Bathroom Buddy to grow it's platform and incentivize eco-friendly behavior.
+![](pics/hardware-resized.jpeg)
+
+Bathroom Buddy is an inexpensive yet powerful device that helps users decrease their environmental footprint by alerting and tracking users' water and light consumption. Users may monitor their activity on the Bathroom Buddy website where they may also redeem rewards for eco-friendly habits. This rewards system gamifies being environmentally aware, allowing Bathroom Buddy to grow it's platform and incentivize eco-friendly behavior. My team and I built this project at EarthxHack and won 2nd place overall.
 
 ## Inspiration
 Water and energy are vital resources that we cannot live without. The average American shower uses 17.2 gallons and takes roughly 8.2 minutes. We realized that by cutting down showers by just a minute, we could be saving 2.1 gallons and more than 20 watts every shower session!
@@ -29,4 +29,4 @@ We also learned to create a dynamic and modern application that helps conserve w
 We are looking to include toilet flushing data on top of the shower and light data. In order to do this, we will use a microphone sensor with sound recognition software to understand when a toilet is being flushed. In addition, we would like to create an even smaller device with cheaper components to further increase practicality.
 
 ## How to run the web app
-Go to https://magiusdarrigo.github.io/BathroomBuddy/ or simply clone the repo and open the index.html file in a browser(preferably Chrome). A user ID you can test would be raspgary.
+Go to https://magiusdarrigo.github.io/BathroomBuddy/ or simply clone the repo and open the index.html file in a browser(preferably Chrome). A user ID you can test would be `raspgary`.
