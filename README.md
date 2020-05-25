@@ -29,4 +29,4 @@ We also learned to create a dynamic and modern application that helps conserve w
 We are looking to include toilet flushing data on top of the shower and light data. In order to do this, we will use a microphone sensor with sound recognition software to understand when a toilet is being flushed. In addition, we would like to create an even smaller device with cheaper components to further increase practicality.
 
 ## How to run the web app
-Go to https://magiusdarrigo.github.io/BathroomBuddy/ or simply clone the repo and open the index.html file in a browser(preferably Chrome). A user ID you can test would be `raspgary`.
+Go to https://raspgary.github.io/Bathroom-Buddy/ or simply clone the repo and open the index.html file in a browser(preferably Chrome). A user ID you can test would be `raspgary`.
